@@ -1,0 +1,23 @@
+name: LKM
+favicon: null
+layout_spectrum: 0.4173164071980864
+typography_spectrum: 0.057985379826277494
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8105720430612564
+  lightness: 0.9012975280638784
+  saturation: 0.9977579761762172
+  rhythmicContrast: 0.6777315379586071
+purpose: []
